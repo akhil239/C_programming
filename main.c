@@ -7,5 +7,6 @@ int main(){
     printf("hello");
   }
   printf("helej");
+  printf('sdkfhsklf');
   return 0;
 };
