@@ -7,6 +7,8 @@ int main(){
     printf("hello");
   }
   printf("changed in git");
+  priuntf("anther git");
   return 0;
 };
+
 
