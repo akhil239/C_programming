@@ -20,7 +20,9 @@ void linearsort(int arr[] , int n){
   }
 }
 // Driver code to test the insertion sort
-
+void insertion(int arr[],size){
+  ;
+}
 int main() {
     
     return 0;
